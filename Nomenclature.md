@@ -10,8 +10,8 @@ Ainsi, pour un fichier sortant de la phase d’homogénéisation, son code sera 
 Après le code n’est peut-être pas obligatoire, il rajoute du travail mais permet une meilleure lisibilité. Il faudra voir si on l’utilise ou pas.
 
 **Correspondance : **
-	* -aut : fichier provenant de la phase d’ « extraction automatique »
-	* -man : fichier provenant de la phase d’ « extraction manuelle »
+* -aut : fichier provenant de la phase d’ « extraction automatique »
+* -man : fichier provenant de la phase d’ « extraction manuelle »
 	* -hom : fichier provenant de la phase d’ « homogénéisation »
 	* -eva : fichier provenant de la phase d’ « évaluation »
 	* -fac : fichier provenant de la phase « Factuel, métadonnées »
