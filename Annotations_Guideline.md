@@ -39,5 +39,5 @@ Séparateur : Tabulation
 
 
 Pour les mails ne contenant que le lien : 
-*Si le lien est vers la SFBI : ouvrir le lien et réutiliser les métadonnées fournies / analyser le contenu du document.
-*Si le lien n'est pas vers la SFBI : Ne pas ouvrir mais annoter à partir du mail
+* Si le lien est vers la SFBI : ouvrir le lien et réutiliser les métadonnées fournies / analyser le contenu du document.
+* Si le lien n'est pas vers la SFBI : Ne pas ouvrir mais annoter à partir du mail
