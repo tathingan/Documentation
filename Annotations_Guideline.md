@@ -3,10 +3,15 @@ Clés du squelette : (*Respecter la langue original du document*)
 Exemple : Nom de la clé (type) Description
 
 Annotateur (nombre) numéro d'anonymat
+
 PAuteur (String) Prénom 
+
 NAuteur  (String) Nom 
+
 TypeDeMail (CDD, CDI, Stage, Evenement, These-HdR, PostDocs, Formations, Autre)
+
 LienExtrene (boolean) Le mail contient un lien externe
+
 DureeM (nombre) Exprimé en mois (*N'en remplir qu'un*) valable pour un contrat ou un événement
 DureeJ (nombre) Exprimé en jours (*N'en remplir qu'un*)valable pour un contrat ou un événement
 DatedeDebut (date format aaaa/mm/jj) ex 2015/01/28 valable pour un contrat ou un événement
@@ -20,6 +25,7 @@ Ville (string)
 Tags (string) sans les crochets, sauf le tag bioinformatique
 Motscles (String) déterminés à partir du corps du message
 CompetencesProg (liste) Languages de programmation attendus, séparés par une tabulation
+
 
 **Informations récupérés automatiquement : **
 IdMail (nombre)
