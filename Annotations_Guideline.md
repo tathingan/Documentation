@@ -1,9 +1,7 @@
 **Squelette Globale**
 
-*Clés du squelette : *(*Respecter la langue original du document*)
-
-
-Exemple : Nom de la clé (type) Description
+**Clés du squelette ajoutées manuellement: **(*Respecter la langue original du document*)
+*Exemple : Nom de la clé (type) Description*
 
 * Annotateur (nombre) numéro d'anonymat
 * PAuteur (String) Prénom 
