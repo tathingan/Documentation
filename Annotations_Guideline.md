@@ -1,6 +1,6 @@
 **Squelette Globale**
 
-** Clés du squelette ajoutées manuellement: **   
+**Clés du squelette ajoutées manuellement:**   
 (*Respecter la langue original du document*)
 *Exemple : Nom de la clé (type) Description*
 
