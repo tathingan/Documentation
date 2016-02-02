@@ -10,19 +10,18 @@ Ainsi, pour un fichier sortant de la phase d’homogénéisation, son code sera 
 Après le code n’est peut-être pas obligatoire, il rajoute du travail mais permet une meilleure lisibilité. Il faudra voir si on l’utilise ou pas.
 
 **Correspondance : **
-*
-	* -aut : fichier provenant de la phase d’ « extraction automatique »
-	* -man : fichier provenant de la phase d’ « extraction manuelle »
-	* -hom : fichier provenant de la phase d’ « homogénéisation »
-	* -eva : fichier provenant de la phase d’ « évaluation »
-	* -fac : fichier provenant de la phase « Factuel, métadonnées »
-	* -cat : fichier provenant de la phase « Catégorie »
-	* -quo : fichier provenant de la phase « De quoi ça parle »
-	* -cib : fichier provenant de la phase « Cible, profil offre »
-	* -ana : fichier provenant de la phase « Analyse fréquence mot »
-	* -sim : fichier provenant de la phase « Similarité entre messages »
-	* -ide : fichier provenant de la phase d’ « Identification communauté »
-	* -vis : fichier provenant de la phase « Visualisation »
+* -aut : fichier provenant de la phase d’ « extraction automatique »
+* -man : fichier provenant de la phase d’ « extraction manuelle »
+* -hom : fichier provenant de la phase d’ « homogénéisation »
+* -eva : fichier provenant de la phase d’ « évaluation »
+* -fac : fichier provenant de la phase « Factuel, métadonnées »
+* -cat : fichier provenant de la phase « Catégorie »
+* -quo : fichier provenant de la phase « De quoi ça parle »
+* -cib : fichier provenant de la phase « Cible, profil offre »
+* -ana : fichier provenant de la phase « Analyse fréquence mot »
+* -sim : fichier provenant de la phase « Similarité entre messages »
+* -ide : fichier provenant de la phase d’ « Identification communauté »
+* -vis : fichier provenant de la phase « Visualisation »
 	
 	
 	
