@@ -3,9 +3,7 @@ Clés du squelette : (*Respecter la langue original du document*)
 Exemple : Nom de la clé (type) Description
 
 Annotateur (nombre) numéro d'anonymat
-
 PAuteur (String) Prénom 
-
 NAuteur  (String) Nom 
 
 TypeDeMail (CDD, CDI, Stage, Evenement, These-HdR, PostDocs, Formations, Autre)
