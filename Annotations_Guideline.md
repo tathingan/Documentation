@@ -2,33 +2,30 @@
 Clés du squelette : (*Respecter la langue original du document*)
 Exemple : Nom de la clé (type) Description
 
-Annotateur (nombre) numéro d'anonymat
-PAuteur (String) Prénom 
-NAuteur  (String) Nom 
-
-TypeDeMail (CDD, CDI, Stage, Evenement, These-HdR, PostDocs, Formations, Autre)
-
-LienExtrene (boolean) Le mail contient un lien externe
-
-DureeM (nombre) Exprimé en mois (*N'en remplir qu'un*) valable pour un contrat ou un événement
-DureeJ (nombre) Exprimé en jours (*N'en remplir qu'un*)valable pour un contrat ou un événement
-DatedeDebut (date format aaaa/mm/jj) ex 2015/01/28 valable pour un contrat ou un événement
-Renouvelable (boolean) 
-PContact (string) Prénom de la personne à contacter
-NContact (string) Nom de la personne à contacter
-Langue (string) fr / en 
-Institut (string) Abréviation en Majuscules
-Equipe  (string) Nom de l'unité de recherche ou de l'équipe
-Ville (string) 
-Tags (string) sans les crochets, sauf le tag bioinformatique
-Motscles (String) déterminés à partir du corps du message
-CompetencesProg (liste) Languages de programmation attendus, séparés par une tabulation
+* Annotateur (nombre) numéro d'anonymat
+* PAuteur (String) Prénom 
+* NAuteur  (String) Nom 
+* TypeDeMail (CDD, CDI, Stage, Evenement, These-HdR, PostDocs, Formations, Autre)
+* LienExtrene (boolean) Le mail contient un lien externe
+* DureeM (nombre) Exprimé en mois (*N'en remplir qu'un*) valable pour un contrat ou un événement
+* DureeJ (nombre) Exprimé en jours (*N'en remplir qu'un*)valable pour un contrat ou un événement
+* DatedeDebut (date format aaaa/mm/jj) ex 2015/01/28 valable pour un contrat ou un événement
+* Renouvelable (boolean) 
+* PContact (string) Prénom de la personne à contacter
+* NContact (string) Nom de la personne à contacter
+* Langue (string) fr / en 
+* Institut (string) Abréviation en Majuscules
+* Equipe  (string) Nom de l'unité de recherche ou de l'équipe
+* Ville (string) 
+* Tags (string) sans les crochets, sauf le tag bioinformatique
+* Motscles (String) déterminés à partir du corps du message
+* CompetencesProg (liste) Languages de programmation attendus, séparés par une tabulation
 
 
 **Informations récupérés automatiquement : **
-IdMail (nombre)
-Date d'envoi (date) 
-Sujet du mail (string)
+* IdMail (nombre)
+* Date d'envoi (date) 
+* Sujet du mail (string)
 
 
 
