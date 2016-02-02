@@ -35,10 +35,8 @@ Exemple : Nom de la clé (type) Description
 Définir un champs vide : null 
 
 Format des fichiers annotés : 
-
-Textuel (TSV) (Éviter d'utiliser Word)
-
-Séparateur : Tabulation
+* Textuel (TSV) (Éviter d'utiliser Word)
+* Séparateur : Tabulation
 
 
 Pour les mails ne contenant que le lien : 
